@@ -1,0 +1,6 @@
+[package]
+name = "finding_generators_for_additive_cyclic_groups"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

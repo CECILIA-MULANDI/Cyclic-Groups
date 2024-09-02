@@ -1,0 +1,6 @@
+[package]
+name = "finding_generators_for_direct_product_of_cyclic_groups"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
